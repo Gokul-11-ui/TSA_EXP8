@@ -1,9 +1,9 @@
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 
 ```
-Devloped by: Keerthana P
-Register Number: 212223240069
-Date: 23-05-2025
+Devloped by: gokul g
+Register Number: 212224040091
+Date: 25-10-2025
 ```
 
 ### AIM:
